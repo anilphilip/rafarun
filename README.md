@@ -1,1 +1,2 @@
 # rafarun
+RafaRun is an app to help underachievers stay on track to complete their tasks. It is intended to be used by very young users as well as adults and those with ADHD. Family and cultures play a large role in training persons to develop focus and discipline to stay on track which leads to achievement. Rafarun helps those individuals born into deficient families and societies, overcome the disadvantages of not being trained to be consistent and to delay gratification..
